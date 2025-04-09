@@ -1,9 +1,10 @@
 ---
-title: "Advanced Social Science 1"
+title: "Teaching experience 1"
 collection: teaching
-type: "Masters Course"
-venue: "Univeristy of Copenhagen, Center for Social Data Science"
-date: 2015-01-01
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "University 1, Department"
+date: 2014-01-01
 location: "City, Country"
 ---
 
