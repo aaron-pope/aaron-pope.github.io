@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Aaron Carl Pope"
 title_separator          : "-"
-name                     : &name "Aaron Pope"
+name                     : # &name "Aaron Pope"
 description              : &description "PhD Fellow in Social Data Science"
 url                      : "https://aaron-pope.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -37,7 +37,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0006-2960-7414"
   semantic         : # URL
-  pubmed           :# URL
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
 
