@@ -25,7 +25,6 @@ main:
 #    url: /year-archive/
     
   - title: "CV"
-#    url: /cv/
     url: /files/Aaron_Pope_Academic_CV_09-26.pdf
     
   # - title: "CV"
